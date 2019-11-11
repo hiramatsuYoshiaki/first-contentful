@@ -3,7 +3,7 @@
 contentful app
 nuxt-create
 
-> My solid Nuxt.js project
+> My contentful Nuxt.js project
 
 ## Build Setup
 
