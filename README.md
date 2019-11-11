@@ -1,10 +1,13 @@
 # contentful-app
 
+contentful app
+nuxt-create
+
 > My solid Nuxt.js project
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ npm run install
 
